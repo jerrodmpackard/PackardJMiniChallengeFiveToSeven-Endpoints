@@ -5,7 +5,7 @@ Created a web api with four endpoints; one that outputs a mad libs story based u
 Peer review: Alexander Soria
 Peer review comments: The programs all work, being able to produce an error if a string is inputted when an integer is needed. It's very nice that all the services and classes are in their own separate folders for each Service. Overall, a very good execution of the program.
 
-Psuedo Code:
+Pseudo Code:
 MadLib:
     We will need to accept user input for 10 inputs and save those to variables
     We will need to output those inputs as variables into our story
