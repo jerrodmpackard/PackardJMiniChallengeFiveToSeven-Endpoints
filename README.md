@@ -2,8 +2,8 @@ Jerrod Packard
 January 10, 2024
 Mini Challenge Five to Seven - Endpoints
 Created a web api with four endpoints; one that outputs a mad libs story based upon user inputs, one that tells the user if their input is an odd or even number, one that reverses a string of integers, and another that reverses a string of alphanumeric characters.
-Peer review: 
-Peer review comments: 
+Peer review: Alexander Soria
+Peer review comments: The programs all work, being able to produce an error if a string is inputted when an integer is needed. It's very nice that all the services and classes are in their own separate folders for each Service. Overall, a very good execution of the program.
 
 Psuedo Code:
 MadLib:
